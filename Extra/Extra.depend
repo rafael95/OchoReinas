@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1494510803 source:/home/rafael/Música/Extra/main.cpp
+	"Algoritmo_backtraking.h"
+	<bits/stdc++.h>
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	"Comunicacion_serial.h"
+
+1494495121 /home/rafael/Música/Extra/include/Comunicacion_serial.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<string>
+	<cstring>
+
+1494531438 source:/home/rafael/Música/Extra/src/Comunicacion_serial.cpp
+	"Comunicacion_serial.h"
+	<iostream>
+	<unistd.h>
+	<string>
+	<cstring>
+	<stdio.h>
+	<string.h>
+	<unistd.h>
+	<fcntl.h>
+	<errno.h>
+	<termios.h>
+	<time.h>
+	"Comunicacion_serial.h"
+	<boost/lexical_cast.hpp>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	"Comunicacion_serial.h"
+
+1494535490 source:/home/rafael/Música/Extra/src/Algoritmo_backtraking.cpp
+	"Algoritmo_backtraking.h"
+	<bits/stdc++.h>
+	"Comunicacion_serial.h"
+
+1494486384 /home/rafael/Música/Extra/include/Algoritmo_backtraking.h
+	<bits/stdc++.h>
+	"Comunicacion_serial.h"
+
